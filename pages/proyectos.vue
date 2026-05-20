@@ -30,7 +30,7 @@ const projects = [
     title: 'DESINTEGRADOR DE PARTÍCULAS',
     description: 'Simulador gráfico de físicas con Canvas y animaciones fluidas de dispersión de partículas.',
     githubUrl: 'https://github.com/ItzelMendoza1503/figuras3D',
-    deployUrl: 'https://desintegracion-interactiva-3d.vercel.app'
+    deployUrl: 'https://figuras3-d.vercel.app/'
   }
 ]
 </script>
